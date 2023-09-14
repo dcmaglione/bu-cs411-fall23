@@ -1,5 +1,4 @@
 # bu-cs411-fall23
-# CS411-Spring2023
 
 ## Description
 
