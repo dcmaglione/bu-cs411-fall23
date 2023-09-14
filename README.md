@@ -18,8 +18,10 @@ Just for fun, here is a three that shows how the repository is organized.
 ```text
 .
 ├── LICENSE
-├── lab_slides
 ├── README.md
+├── lab_assignments
+├── lab_slides
+├── resources
 ├── sample_code
 └── team_assignments
 ```
